@@ -34,6 +34,7 @@ nome=c("Poze_do_Rodo","Hariel","Orochi", "Paulinho_da_capital")
 # VC UTILIZARA UMA FUNCAO CHAMADA "data.frame" E DENTRO DELA COLOCARA TUDO OQ FOI FEITO NO PASSO1 MAIS A IDADE, MAIS AS VIZUALIZACOES, MAS SEGUIDORES DO INSTAM.
 # LEMBRANDO QUE ESSES NOMES COMO ("nome", "idade", "yiutube" e "insta") VC QUE DEVE ELABORAR ou inventar, use sua criatividade.
 # Após isso use a setinha de atribuição e chame tudo isso que foi pedido de "tabela de mcs", "lista de mcs" ou só "tabela", como eu coloquei abaixo, veja como ficou:
+# Mantenha essa setinha sempre direcionada a esquerda!caso contrário retornará erro.
 
  tabela <- data.frame(nome=c("Poze_do_Rodo","Hariel","Orochi", "Paulinho_da_capital"), 
                      idade=c(23, 24, 21, 23),                    
